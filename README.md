@@ -1,8 +1,15 @@
-# Artic Blush Icons
+<h1 align="center">
+	<img src="https://github.com/articblush/.github/blob/main/src/articblush56.png" width="25%" alt="Logo"/><br/>
+	Articblush Icons</a>
+  </h1>
 
-A port of [Artic Blush Colorscheme](https://github.com/articblush) for [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
+ <h3 align="center">Beautiful icons to match your articblush rice.</h3>
+ 
+ ----
 
 ![demonstration](./assets/main.png)
+
+A port of [Artic Blush Colorscheme](https://github.com/articblush) for [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
 ## Requirements
 
